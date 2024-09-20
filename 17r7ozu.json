@@ -1,0 +1,933 @@
+{
+  "id": "17r7ozu",
+  "title": "GDL und Bahn starten Tarifrunde - Kommen jetzt harte Wochen f\u00fcr Bahn-Kunden?",
+  "score": 89,
+  "created": "2023-11-09 08:29:00",
+  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/gdl-bahn-lokfuehrer-weselsky-100.html",
+  "author": "shadeKerry",
+  "branches": [
+    {
+      "id": "k8h3i71",
+      "score": "159",
+      "created": "2023-11-09 08:37",
+      "author": "filmeUsual",
+      "body": "Ich dachte Bahnkunden w\u00e4ren harte Wochen gewohnt\u2026",
+      "branches": [
+        {
+          "id": "k8h3tvp",
+          "score": "26",
+          "created": "2023-11-09 08:42",
+          "author": "wellsMaui",
+          "body": "Gewohnt... Es ist jedes Mal aufs neue frustrierend.",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8h55u7",
+          "score": "4",
+          "created": "2023-11-09 08:59",
+          "author": "benzSao",
+          "body": "Du meinst wohl Jahre!?",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8h9fq6",
+          "score": "5",
+          "created": "2023-11-09 09:56",
+          "author": "kenCpu",
+          "body": "Die Rostocker ja - da f\u00e4hrt jetzt einen Monat keine S-Bahn.",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8h9jh9",
+          "score": "53",
+          "created": "2023-11-09 09:58",
+          "author": "kaiDerek",
+          "body": "Das Problem ist halt: als Bahn-Management ists anscheinend v\u00f6llig egal was Streiks f\u00fcr eine Auswirkung auf die Kundenzufriedenheit haben. Ob man haufenweise Geld verbrennt ist sowieso egal (passiert ja jetzt schon ohne Konsequenzen)",
+          "branches": [
+            {
+              "id": "k8hg7u7",
+              "score": "25",
+              "created": "2023-11-09 11:28",
+              "author": "tokenUnits",
+              "body": "Die Kunden haben halt auch keine andere Wahl. Also warum sollte da das Bahn Management Angst bekommen?",
+              "branches": [
+                {
+                  "id": "k8hhf41",
+                  "score": "8",
+                  "created": "2023-11-09 11:43",
+                  "author": "consTiger",
+                  "body": "Doch! Zur\u00fcck zum Auto. Ich kenn da einige, die die Nase voll haben von EVG-Streik, GDL-Streik (zum Gl\u00fcck gibt's noch keine eigene Schaffnergewerkschaft, Fahrdienstleitergewerkschaft, Stellwerkmitarbeitergewerkschaft), Signalst\u00f6rung, Stellwerkst\u00f6rung, St\u00f6rung wegen Winter, St\u00f6rung wegen Fr\u00fchling, St\u00f6rung wegen Sommer, St\u00f6rung wegen Herbst...",
+                  "branches": [],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "negative",
+                  "stanceOnParent": "negative"
+                },
+                {
+                  "id": "k8hhh7m",
+                  "score": "23",
+                  "created": "2023-11-09 11:44",
+                  "author": "gisRaid",
+                  "body": "> Die Kunden haben halt auch keine andere Wahl\n\nGenau - im Grunde ist die Bahn f\u00fcr alle Pendler v\u00f6llig untragbar, denn als Arbeitnehmer muss man so oder so ein Auto vorhalten um w\u00e4hrend der 1-2 Monate Streik alle 1-2 Jahre irgendwie zur Arbeit zu kommen. \n\nAlternativen gibt es nicht. Mit Fahrrad fahren? Wer die Bahn braucht nimmt die nur, weil es f\u00fcrs Fahrrad viel zu weit ist. Mietwagen? Alle ausgebucht wenn gestreikt wird und kostet viel Geld. Taxi? Komplett unbezahlbar. Fahrgemeinschaften? Theoretisch ja, aber gibt bei Streiktagen mehr Nachfrage als Angebot.\n\nIch hab kein Auto, pendele mit der Bahn in die Nachbarstadt, und muss mir gerade ernsthaft \u00fcberlegen, ob ich auf die Schnelle ein billiges Auto kaufe :( Und das, obwohl mein Arbeitgeber uns mit Homeoffice und Arbeiten am anderen Standort schon echt viel unterst\u00fctzt. Aber es geht halt nicht alles aus der Ferne.",
+                  "branches": [
+                    {
+                      "id": "k8hmyme",
+                      "score": "7",
+                      "created": "2023-11-09 12:47",
+                      "author": "corpMerit",
+                      "body": "Ich bin auch Autolos und zum pendeln auf die Bahn angewiesen.   \nBei den letzten Streiks bzw. Gro\u00dfbauma\u00dfnahmen gab es aber immer genug Optionen:   \nTages-Mietwagen (Sixt), Monatsabo, Fahrgemeinschaften (mit Kollegen), Carsharing (Miles, Cambio), E-Bike, Homeoffice Option, Auto im Familien/Bekanntenkreis leihen. \n\nAlles am Ende g\u00fcnstiger als jetzt \u00fcber Wochen/Monate en Auto zu halten",
+                      "branches": [
+                        {
+                          "id": "k8hs0bd",
+                          "score": "2",
+                          "created": "2023-11-09 13:36",
+                          "author": "gisRaid",
+                          "body": "> Tages-Mietwagen\n\nHier ausgebucht.\n\n> Monatsabo\n\nHab ich ja, hilft mir nix wenn die Bahn nicht f\u00e4hrt. Das ist ja das Problem.\n\n> Fahrgemeinschaft\n\nMeine Kollegen und ich fahren alle mit der gleichen Bahn, haben auch kein Auto.\n\n> Carsharing\n\nHabe ich noch nicht ausprobiert. Geht das zwischen St\u00e4dten und wenn man tagesweise mietet?\n\n> E-Bike\n\nF\u00fcr die Kohle kann ich mir auch fast ein Auto kaufen. :o Und es bleiben halt 45km pro Weg.\n\n> Auto bei Familie leihen\n\nDarauf wird es hinauslaufen wenn es soweit kommen sollte. Macht die Familie aber auch nicht jedes Jahr mit. Die haben das Auto nur, weil sie es ja selbst brauchen..",
+                          "branches": [
+                            {
+                              "id": "k8itpko",
+                              "score": "-1",
+                              "created": "2023-11-09 17:54",
+                              "author": "corpMerit",
+                              "body": ">Monatsabo  \n>  \n>Hab ich ja, hilft mir nix wenn die Bahn nicht f\u00e4hrt. Das ist ja das Problem.\n\nMonatsabo f\u00fcr ein Auto (wenn z.B. die Bahn wegen Baustellen f\u00fcr paar Tage ausf\u00e4llt). quasi sowas wie ne langzeitmiete - das mit den Kollegen teilen, die auch alle Bahnpendler sind.   \n\n\nCarsharing \u00fcber Stadtgrenzen ist z.B. bei Miles und Sixt share m\u00f6glich.   \n\n\nWenn man sich das mit mehreren teilt: Taxi/Uber  \n\n\nalso ja: es ist alles nicht einfach oder super g\u00fcnstig. Aber im Vergleich zum eigenen Autokauf dann doch schon g\u00fcnstiger und einfacher ;)",
+                              "branches": [],
+                              "isTopLevel": false,
+                              "stanceOnSubmission": "neither",
+                              "stanceOnParent": "neither"
+                            }
+                          ],
+                          "isTopLevel": false,
+                          "stanceOnSubmission": "neither",
+                          "stanceOnParent": "negative"
+                        }
+                      ],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "negative"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "negative",
+                  "stanceOnParent": "positive"
+                },
+                {
+                  "id": "k8hmnft",
+                  "score": "4",
+                  "created": "2023-11-09 12:44",
+                  "author": "braveDeep",
+                  "body": "Klar gibt es eine Alternative. Nennt sich Auto.",
+                  "branches": [
+                    {
+                      "id": "k8hqwnn",
+                      "score": "6",
+                      "created": "2023-11-09 13:26",
+                      "author": "applyAla",
+                      "body": "Ist so lange eine Alternative bis du dir erstmal einen F\u00fchrerschein leisten musst. Leider kriegt auch nicht jeder zum 18. Geburtstag von den Eltern die kleinen 2500\u20ac geschenkt + Auto. Gerade f\u00fcr Berufseinsteiger ist die Bahn ein absolutes Desaster, aber viele k\u00f6nnen sich die einzige Alternative nicht einmal leisten.",
+                      "branches": [],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "negative"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "negative"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "positive",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8haim2",
+          "score": "8",
+          "created": "2023-11-09 10:11",
+          "author": "execHang",
+          "body": "Ist halt so der Knackpunkt bei den Streiks, man merkt keinen Unterschied zu vorher",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8hctdh",
+          "score": "4",
+          "created": "2023-11-09 10:42",
+          "author": "dvdSheer",
+          "body": "Ha ha, echt mann. Bei uns gibt es jetzt den 20/40 Takt der S Bahn: Also wird eine pro Stunde gestrichen. Leider genau die, die meine Kids zur Schule nehmen.",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8hd9yj",
+          "score": "3",
+          "created": "2023-11-09 10:49",
+          "author": "gayStill",
+          "body": "Nein nein. Ich verbringe meine Freizeit gerne in Z\u00fcgen die rumstehen.",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        },
+        {
+          "id": "k8hlk6n",
+          "score": "3",
+          "created": "2023-11-09 12:32",
+          "author": "zoomSki",
+          "body": "Gewohnt? Naja, die tagt\u00e4glichen Probleme sind so eine Sache, damit kann man sich ja meist noch irgendwie abfinden. Aber wenn man zwingend auf die Bahn angewiesen ist, um zur Arbeit zu kommen, dann sind lange Streiks etwas, woran man sich nicht wirklich gew\u00f6hnen kann.   \nIch war 2007 in der Situation und habe mir danach geschworen, das nie weder mitzumachen. Das war so ein Ausma\u00df an Unplanbarkeit und Hilflosigkeit, dass ich danach umgezogen bin und mein erstes Auto gekauft habe.",
+          "branches": [
+            {
+              "id": "k8ih8zw",
+              "score": "2",
+              "created": "2023-11-09 16:38",
+              "author": "filmeUsual",
+              "body": "Ich bin in der gl\u00fccklichen Lage, ein optionaler Bahnfahrer zu sein. Wenn ich ins B\u00fcro fahre (und ausreichend Zeit habe) nutze ich in der Regel die Bahn, auch wenn es l\u00e4nger dauert als mit dem Auto, um nicht unn\u00f6tig die Umwelt zu belasten. \n\nWenn es aber wegen Streik o.\u00e4. nicht geht, habe ich als Fallback L\u00f6sung immer noch mein Auto. Ohne ist man dann doch eher aufgeschmissen.",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8h5zrg",
+      "score": "7",
+      "created": "2023-11-09 09:10",
+      "author": "rhodeBuyer",
+      "body": "Ich bin zwar absolut auf Arbeitnehmerseite aber es tut so langsam schon weh \ud83d\ude02\ud83d\ude05",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "positive",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8h660q",
+      "score": "-5",
+      "created": "2023-11-09 09:12",
+      "author": "usersDive",
+      "body": "[https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/09/PD22\\_N058\\_51.html#:\\~:text=77%20%25%20aller%20Haushalte%20besa%C3%9Fen%202021%20mindestens%20ein%20Auto&text=So%20war%20der%20Anteil%20der,2011%20(77%2C9%20%25)](https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/09/PD22_N058_51.html#:~:text=77%20%25%20aller%20Haushalte%20besa%C3%9Fen%202021%20mindestens%20ein%20Auto&text=So%20war%20der%20Anteil%20der,2011%20(77%2C9%20%25)).\n\nBei solchen Meldungen wird sich das nicht \u00e4ndern.",
+      "branches": [
+        {
+          "id": "k8h6f7o",
+          "score": "-16",
+          "created": "2023-11-09 09:15",
+          "author": "aheadUltra",
+          "body": "Also der Fakt dass die Gewerkschaften mit die beste Werbung f\u00fcr das eigene Auto sind kassiert immer Downvotes ^^",
+          "branches": [
+            {
+              "id": "k8h6ms9",
+              "score": "3",
+              "created": "2023-11-09 09:18",
+              "author": "wellsMaui",
+              "body": "Die Bahn ist die beste Werbung f\u00fcr's eigene Auto.",
+              "branches": [
+                {
+                  "id": "k8h6zgo",
+                  "score": "1",
+                  "created": "2023-11-09 09:23",
+                  "author": "aheadUltra",
+                  "body": "Ach beruflich finde ich das ganz ok. Sitzt man halt mal eine Arbeitsstunde l\u00e4nger im Zug. Wenn\u2019s zu krass wird bekommt man sogar zus\u00e4tzlich Geld f\u00fcrs Warten in der Arbeitszeit. \n\nWenn aber halt gar kein Zug f\u00e4hrt wird\u2019s bl\u00f6d.",
+                  "branches": [
+                    {
+                      "id": "k8ha7b4",
+                      "score": "2",
+                      "created": "2023-11-09 10:07",
+                      "author": "dosFelt",
+                      "body": "Oder wenn man mit dem Zug zur Arbeit pendelt. Ich war Montag morgen 3h unterwegs. Normalerweise brauche ich knapp 1h15min T\u00fcr zu T\u00fcr. Deswegen musste ich dann auch bis nach 19:30 Uhr arbeiten, um die verlorene Zeit wieder aufzuholen, war ja erst um 10:00 Uhr da. Auf dem Weg nach Hause dann nochmal 30min Versp\u00e4tung. Das macht richtig Spa\u00df, wenn\u2019s unbezahlt ist und dadurch der ganze Tag hin.",
+                      "branches": [
+                        {
+                          "id": "k8hi4k0",
+                          "score": "1",
+                          "created": "2023-11-09 11:52",
+                          "author": "gisRaid",
+                          "body": "Genau so ist es. Und das ist ja nur der Normalfall. Wenn man mal wegen Streik ne Woche nicht auf Arbeit erscheinen w\u00fcrde w\u00e4re man den Job los.",
+                          "branches": [],
+                          "isTopLevel": false,
+                          "stanceOnSubmission": "neither",
+                          "stanceOnParent": "positive"
+                        }
+                      ],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "positive"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "negative"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "negative"
+            },
+            {
+              "id": "k8hi202",
+              "score": "-2",
+              "created": "2023-11-09 11:51",
+              "author": "gisRaid",
+              "body": "> Also der Fakt dass die Gewerkschaften mit die beste Werbung f\u00fcr das eigene Auto sind kassiert immer Downvotes \n\nIst aber Fakt. Als Pendler geht es ohne eigenes Auto eigentlich nicht. Es wird so oft und viel in der Bahn gestreikt, dass man auch als Gewohnheitsbahnfahrer ein Auto braucht, um nicht wegen der Streiks den Job zu verlieren.",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "negative",
+              "stanceOnParent": "positive"
+            },
+            {
+              "id": "k8hkebd",
+              "score": "9",
+              "created": "2023-11-09 12:19",
+              "author": "appleCgi",
+              "body": "Was kann der Kampf nach anst\u00e4ndigem Lohn f\u00fcr anst\u00e4ndige Arbeit daf\u00fcr, dass die Bahn wegen politischer Fehler unzuverl\u00e4ssig ist?",
+              "branches": [
+                {
+                  "id": "k8hlknv",
+                  "score": "-4",
+                  "created": "2023-11-09 12:32",
+                  "author": "aheadUltra",
+                  "body": "Interessiert niemanden (insbesondere nicht den Chef) wenn man terminlich von A nach B muss (will).",
+                  "branches": [
+                    {
+                      "id": "k8hwe5x",
+                      "score": "3",
+                      "created": "2023-11-09 14:13",
+                      "author": "appleCgi",
+                      "body": "Gewiss. Such die Schuld daf\u00fcr bei den Arbeitgeber/innen, nicht bei den Gewerkschaften.",
+                      "branches": [
+                        {
+                          "id": "k8hz5u8",
+                          "score": "-2",
+                          "created": "2023-11-09 14:34",
+                          "author": "aheadUltra",
+                          "body": "Die Arbeitgeber legen nicht den Betrieb nieder.",
+                          "branches": [],
+                          "isTopLevel": false,
+                          "stanceOnSubmission": "negative",
+                          "stanceOnParent": "negative"
+                        }
+                      ],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "positive",
+                      "stanceOnParent": "negative"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "neither"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "positive",
+              "stanceOnParent": "negative"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "positive"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8h7cel",
+      "score": "5",
+      "created": "2023-11-09 09:28",
+      "author": "crestCasio",
+      "body": "Ab wann k\u00f6nnen Z\u00fcge eigentlich autonom fahren?",
+      "branches": [
+        {
+          "id": "k8h7vd7",
+          "score": "15",
+          "created": "2023-11-09 09:35",
+          "author": "urlsMalta",
+          "body": "Wann sie es k\u00f6nnen und wann sie es in Deutschland k\u00f6nnen sind zwei sehr verschiedene Fragen.",
+          "branches": [
+            {
+              "id": "k8h89zu",
+              "score": "12",
+              "created": "2023-11-09 09:40",
+              "author": "damnGate",
+              "body": "In Hamburg gibt es probel\u00e4ufe f\u00fcr automatisch fahrende S-Bahnen. Damit geh\u00f6rt man weltweit zu den ersten die das machen. Viele denken nur weil es autonome u-bahnen (auch in Deutschland btw) gibt, sei es f\u00fcr die Eisenbahn ja kein Problem das auch zu machen. Die U-Bahn zeichnet sich jedoch dadurch aus, dass sie kein anderes Verkehrsmittel kreuzt und weitesgehend vor Au\u00dfeneinfl\u00fcssen gesch\u00fctzt ist.",
+              "branches": [
+                {
+                  "id": "k8h8lwn",
+                  "score": "-4",
+                  "created": "2023-11-09 09:45",
+                  "author": "cdnaTft",
+                  "body": "Ja gut trotzdem f\u00fchlt es sich einfach an als w\u00e4re da massiv was verschlafen worden. Wir sind an dem Punkt an dem Autos autonom fahren aber Z\u00fcge, die nur vor und zur\u00fcck k\u00f6nnen und immer eine definierte Position haben weil ja eh alles immer geplant wird sind noch weit davon entfernt.",
+                  "branches": [
+                    {
+                      "id": "k8haz2z",
+                      "score": "14",
+                      "created": "2023-11-09 10:17",
+                      "author": "damnGate",
+                      "body": "Welche Autos fahren denn Autonom? \n\nTesla? Die ein Tempomat plus Spurhalteassistent als autonom verkaufen? \n\nOder die Autonomen taxen in San Francisco? Die nur innerhalb der Stadtgrenzen fahren k\u00f6nnen, weil sie alle Daten auf einer Festplatte im Auto mitfahren. Und wo man 1,5 Mitarbeiter Pro Fahrzeug zum Steuern ben\u00f6tigt? \n\n\n\"Massiv verschlafen\" stimmt halt einfach nicht. Es gibt in keinem Land autonome Eisenbahn. Alles was es gibt sind Metrosysteme und Flughafenbahnen. 15 km U-Bahnr\u00f6hre ist halt nicht das gleiche wie 150km freie Strecke.",
+                      "branches": [
+                        {
+                          "id": "k8hc7f6",
+                          "score": "-3",
+                          "created": "2023-11-09 10:34",
+                          "author": "cdnaTft",
+                          "body": ">15 km U-Bahnr\u00f6hre ist halt nicht das gleiche wie 150km freie Strecke.\n\nAber 150km Gleis sind trotzdem aus meiner Sicht deutlich unterkomplexer als autonome Autos. Das sollte von mir eher ein Industriebashing sein und nicht Deutschland. Also wie es sein kann dass wir da nicht mindestens soweit sind wie bei Autos.",
+                          "branches": [
+                            {
+                              "id": "k8heykh",
+                              "score": "5",
+                              "created": "2023-11-09 11:11",
+                              "author": "damnGate",
+                              "body": "Naja wie gesagt, Autos sind ja auch noch net so weit wie das Marketing vermuten l\u00e4sst. Bin jetzt kein Lokf\u00fchrer, aber ich glaube auf Modernen Strecken hast du auch schon seit jahren viele Assistenzsysteme. Mehr hast du im PKW ja auch net. \n\nWir h\u00e4tten in Darmstadt schon seit Mai diesen Jahres autonome On Demand Shuttles haben sollen. Der Hersteller hat dann kurz vor dem Betrieb insolvenz angemeldet. Wer wei\u00df ob die das \u00fcberhaupt konnten oder nur staatliche F\u00f6rdergelder abgegriffen haben",
+                              "branches": [
+                                {
+                                  "id": "k8hiccj",
+                                  "score": "1",
+                                  "created": "2023-11-09 11:55",
+                                  "author": "cdnaTft",
+                                  "body": "Ich geb dir ja Recht. Ich bin jetzt auch nicht drin im autonomen fahren, trotzdem f\u00fchlt es sich wie eine vergebene Chance an dass die noch nicht autonom in Europa unterwegs sind",
+                                  "branches": [
+                                    {
+                                      "id": "k8hnecd",
+                                      "score": "1",
+                                      "created": "2023-11-09 12:52",
+                                      "author": "damnGate",
+                                      "body": "Wenn man sich anguckt dass au\u00dferhalb von europa die meisten Systeme zwischen den 80er und 00er Jahren entstanden sind (au\u00dfer China), dann wird klar wieso man das hier nicht gemacht hat: Arbeitspl\u00e4tze.  Dazu bei uns vor allem eine Bev\u00f6lkerung die neuen Technologien nicht grade offen gegen\u00fcber steht und die Autoindustrie, die es vermutlich nicht gut findet, wenn der \u00d6PNV hier zu gut ausgebaut ist. Erst in den letzten Jahren merkt man, dass es sich nicht lohnt um jeden Arbeitsplatz zu k\u00e4mpfen und man auch dinge Automatisieren kann.",
+                                      "branches": [
+                                        {
+                                          "id": "k8jra5j",
+                                          "score": "1",
+                                          "created": "2023-11-09 21:13",
+                                          "author": "pathTeeth",
+                                          "body": "Das hat nichts mit Arbeitspl\u00e4tzen, sondern einfach mit Kosten zu tun. Ein Gro\u00dfteil der Bahninfrastruktur ist einfach uralt. Stellwerke sind im Durchschnitt 49 Jahre alt und die verwendete Technik genauso, zum gro\u00dfen Teil nicht digital, teilweise sogar noch mechanisch. F\u00fcr einen autonomen Betrieb muss das alles erneuert werden, was mehrere hundert Milliarden kostet. Und die Regierung investiert nur das n\u00f6tigste in die Bahninfrastruktur seit Jahrzehnten. Genug das es nicht total zuammenbricht, aber zu wenig um gro\u00dfe Modernisierungen durchzuf\u00fchren.",
+                                          "branches": [
+                                            {
+                                              "id": "k8jtr5d",
+                                              "score": "1",
+                                              "created": "2023-11-09 21:28",
+                                              "author": "damnGate",
+                                              "body": "Ging mir da eher um die U-Bahnen. Bei der Eisenbahn gibt es ja, wie schon in anderen Kommentaren geschrieben, bisher noch keinen autonomen Betrieb. \n\n> Stellwerke sind im Durchschnitt 49 Jahre alt \n\nDas liegt aber auch daran, dass ein modernes Stellwerk dutzende alte ersetzen kann. Richtig alte Stellwerke hat man meist nur noch auf Nebenbahnen. Moderne ESTW k\u00f6nnen ganze Regionen steuern. Aber nat\u00fcrlich gibt es trotzdem zu viel veraltete Bahntechnik im Einsatz.",
+                                              "branches": [],
+                                              "isTopLevel": false,
+                                              "stanceOnSubmission": "neither",
+                                              "stanceOnParent": "negative"
+                                            }
+                                          ],
+                                          "isTopLevel": false,
+                                          "stanceOnSubmission": "neither",
+                                          "stanceOnParent": "negative"
+                                        }
+                                      ],
+                                      "isTopLevel": false,
+                                      "stanceOnSubmission": "neither",
+                                      "stanceOnParent": "neither"
+                                    }
+                                  ],
+                                  "isTopLevel": false,
+                                  "stanceOnSubmission": "neither",
+                                  "stanceOnParent": "positive"
+                                }
+                              ],
+                              "isTopLevel": false,
+                              "stanceOnSubmission": "neither",
+                              "stanceOnParent": "negative"
+                            }
+                          ],
+                          "isTopLevel": false,
+                          "stanceOnSubmission": "neither",
+                          "stanceOnParent": "negative"
+                        }
+                      ],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "negative"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "neither"
+                },
+                {
+                  "id": "k8h9ij2",
+                  "score": "-1",
+                  "created": "2023-11-09 09:57",
+                  "author": "kenCpu",
+                  "body": "In Japan fahren die schon lange autonom.",
+                  "branches": [
+                    {
+                      "id": "k8hap98",
+                      "score": "3",
+                      "created": "2023-11-09 10:14",
+                      "author": "damnGate",
+                      "body": "Kannst du bitte ein Beispiel nennen? Ich meine echte Eisenbahn, keine Metros oder Flughafenbahnen.",
+                      "branches": [
+                        {
+                          "id": "k8hbrc2",
+                          "score": "1",
+                          "created": "2023-11-09 10:28",
+                          "author": "kenCpu",
+                          "body": "Ich bezog mich auf die U-Bahn, da sie kein anderes Verkehrsmittel kreuzt und weitestgehend vor Au\u00dfeneinfl\u00fcssen gesch\u00fctzt ist.",
+                          "branches": [],
+                          "isTopLevel": false,
+                          "stanceOnSubmission": "neither",
+                          "stanceOnParent": "neither"
+                        }
+                      ],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "neither"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "negative"
+                },
+                {
+                  "id": "k8h9qs4",
+                  "score": "-1",
+                  "created": "2023-11-09 10:00",
+                  "author": "urlsMalta",
+                  "body": "Wie kommst du darauf dass Hamburg damit einer der ersten w\u00e4re?\n\nhttps://en.m.wikipedia.org/wiki/List_of_driverless_train_systems\n\nHunderte eintr\u00e4ge, Deutschland taucht mit zwei fiesligen U-Bahnen in n\u00fcrnberg auf und in Hamburg gibt es probel\u00e4ufe. Kann man mit zufrieden sein.",
+                  "branches": [
+                    {
+                      "id": "k8halvd",
+                      "score": "10",
+                      "created": "2023-11-09 10:12",
+                      "author": "damnGate",
+                      "body": "Danke f\u00fcr die Liste. Wie du dort auch siehst, sind da ausschlie\u00dflich Metrosysteme und Flughafenbahnen mit maximal zweistelligen Kilometern an L\u00e4nge. Also genau das was ich gesagt habe.",
+                      "branches": [
+                        {
+                          "id": "k8hax4u",
+                          "score": "1",
+                          "created": "2023-11-09 10:17",
+                          "author": "urlsMalta",
+                          "body": "Aber was ist denn der technische unterschied zwischen einem \"Metrosystem\" dass \u00fcbererdig f\u00e4hrt und einer S-Bahn?",
+                          "branches": [],
+                          "isTopLevel": false,
+                          "stanceOnSubmission": "neither",
+                          "stanceOnParent": "neither"
+                        }
+                      ],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "negative"
+                    },
+                    {
+                      "id": "k8hmfn5",
+                      "score": "1",
+                      "created": "2023-11-09 12:42",
+                      "author": "idlePromo",
+                      "body": "Eines der ersten Systeme die in offenen gegen\u00fcber geschlossenen Netzen fahren soll. Ich glaube sein Ged\u00e4chtnis war da nicht richtig",
+                      "branches": [],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "neither"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "negative"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            },
+            {
+              "id": "k8hffuk",
+              "score": "6",
+              "created": "2023-11-09 11:18",
+              "author": "phoneMardi",
+              "body": "N\u00fcrnberg liegt in Deutschland, oder?",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "negative"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "neither"
+        },
+        {
+          "id": "k8h8hho",
+          "score": "23",
+          "created": "2023-11-09 09:43",
+          "author": "mythRange",
+          "body": "ETCS Hybrid Level 3 ist das Stichwort. In Deutschland rolle nwir gerade sehr langsam ETCS Level 2 aus. Autonome Z\u00fcge sind unglaublich hart reguliert. Wenn man damit arbeitet wundert man sich immer warum Autos \"so einfach\" davon kommen.",
+          "branches": [
+            {
+              "id": "k8h8p7z",
+              "score": "14",
+              "created": "2023-11-09 09:46",
+              "author": "crestCasio",
+              "body": "Muss man sich echt wundern.\n\nIch gehe mal davon aus das so ein ICE Lokf\u00fchrer nicht auf Sicht f\u00e4hrt, sondern sich auch seine Systems, das Kontrollzentrum und Sensoren verl\u00e4sst.  \nKlingt f\u00fcr einen Au\u00dfernstehenden erstmal sehr gut zu Autonomisieren",
+              "branches": [
+                {
+                  "id": "k8hrpd1",
+                  "score": "5",
+                  "created": "2023-11-09 13:33",
+                  "author": "applyAla",
+                  "body": "Wenn ich es richtig verstehe wird jenseits der 160 km/h quasi komplett auf Digital gefahren. Der Zug kann auf Sichtdistanz bei Rot nicht rechtzeitig zum stehen kommen. Der Lokf\u00fchrer sieht daf\u00fcr die n\u00e4chsten kommenden Signale bereits weit im Vorraus, aber auch nur auf Strecken, die daf\u00fcr auch ausgebaut sind. Das sind so 2600 km von fast 34.000 Kilometern an Strecke.\n\nTo be fair, auf vielen Trassen kann man ja nichtmal sinnvoll 160 fahren, von daher ist der letzte Satz nicht das einzige, was man beachten sollte.",
+                  "branches": [],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "neither"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            },
+            {
+              "id": "k8hge1r",
+              "score": "1",
+              "created": "2023-11-09 11:30",
+              "author": "kaiDerek",
+              "body": "> Wenn man damit arbeitet wundert man sich immer warum Autos \"so einfach\" davon kommen.\n\nSo einfach ists eigentlich gar nicht, es wird nur Zeugs als \"autonom\" (im Marketing) verkauft, was gar nicht autonom ist. Zu ner Level 4-5 Zulassung in Europa ists noch ein weiter Weg, wenn nicht ein Land da die Gesetzeslage untergr\u00e4bt",
+              "branches": [
+                {
+                  "id": "k8i7pid",
+                  "score": "1",
+                  "created": "2023-11-09 15:36",
+                  "author": "shownUses",
+                  "body": "Die ETCS Level sind nicht die Level, die du meinst.",
+                  "branches": [
+                    {
+                      "id": "k8k7a8e",
+                      "score": "1",
+                      "created": "2023-11-09 22:49",
+                      "author": "kaiDerek",
+                      "body": "Ich meinte damit auch nur, dass Autonome Autos nicht so einfach davon kommen wie es wirkt",
+                      "branches": [],
+                      "isTopLevel": false,
+                      "stanceOnSubmission": "neither",
+                      "stanceOnParent": "neither"
+                    }
+                  ],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "negative"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "negative"
+            },
+            {
+              "id": "k8hhvkv",
+              "score": "1",
+              "created": "2023-11-09 11:49",
+              "author": "gisRaid",
+              "body": "> Wenn man damit arbeitet wundert man sich immer warum Autos \"so einfach\" davon kommen.\n\nIch sage schon lange, dass man menschliche Autofahrer eigentlich verbieten und grunds\u00e4tzlich wegen Fahrl\u00e4ssigkeit verurteilen m\u00fcsste. Wir w\u00fcrden niemals eine Maschine mit so hoher T\u00f6tungsrate auf die Stra\u00dfe lassen.",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "neither"
+        },
+        {
+          "id": "k8hbtve",
+          "score": "2",
+          "created": "2023-11-09 10:29",
+          "author": "demoSand",
+          "body": "In Kopenhagen funktioniert das schon seit 20 jahren",
+          "branches": [
+            {
+              "id": "k8hfgor",
+              "score": "1",
+              "created": "2023-11-09 11:18",
+              "author": "phoneMardi",
+              "body": "In N\u00fcrnberg seit 2008.",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "neither"
+        },
+        {
+          "id": "k8hc8w3",
+          "score": "3",
+          "created": "2023-11-09 10:35",
+          "author": "pathTeeth",
+          "body": "Sobald wir die Schienen aus der Kaiserzeit und die mechanischen Stellwerke die noch von Hitler eingeweiht wurden ersetzen. Was aber noch locker 30 Jahre oder mehr dauern wird, bei dem wenigen Geld das in die Bahn investiert wird.",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "neither"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8h7etp",
+      "score": "2",
+      "created": "2023-11-09 09:29",
+      "author": "pagesVisit",
+      "body": "Bitte nicht, ich fahre n\u00e4chste Woche nach Hamburg \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d Ich habe schon alles gebucht, ich kriege das Geld nicht zur\u00fcck wenn die Fahrt jetzt ausf\u00e4llt",
+      "branches": [
+        {
+          "id": "k8hcr3p",
+          "score": "1",
+          "created": "2023-11-09 10:42",
+          "author": "hrefPerth",
+          "body": "Beim Fernverkehr w\u00fcrde ich mir da nicht so viele Sorgen machen.",
+          "branches": [
+            {
+              "id": "k8hhy4s",
+              "score": "3",
+              "created": "2023-11-09 11:50",
+              "author": "gisRaid",
+              "body": "> Beim Fernverkehr w\u00fcrde ich mir da nicht so viele Sorgen machen.\n\nErst im April wurde der Fernverkehr teilweise komplett eingestellt.",
+              "branches": [
+                {
+                  "id": "k8hkmqm",
+                  "score": "3",
+                  "created": "2023-11-09 12:22",
+                  "author": "hrefPerth",
+                  "body": "Ja weil die EVG nat\u00fcrlich auch die Gewerkschaft in der Fahrdienstleiter und Disponenten ist... Bin \u00fcbrigens bei der Bahn ;)",
+                  "branches": [],
+                  "isTopLevel": false,
+                  "stanceOnSubmission": "neither",
+                  "stanceOnParent": "negative"
+                }
+              ],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "negative"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "negative"
+        },
+        {
+          "id": "k8hddzz",
+          "score": "6",
+          "created": "2023-11-09 10:50",
+          "author": "gayStill",
+          "body": "Wenn die Fahrt ausf\u00e4llt nimmst einen anderen Zug. Es wird ja nicht gar nix fahren.",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "neither"
+        },
+        {
+          "id": "k8hg8sg",
+          "score": "3",
+          "created": "2023-11-09 11:28",
+          "author": "uscTruck",
+          "body": "Nat\u00fcrlich bekommst du das Geld zur\u00fcck bei streik",
+          "branches": [
+            {
+              "id": "k8hgr3t",
+              "score": "8",
+              "created": "2023-11-09 11:35",
+              "author": "pagesVisit",
+              "body": "Ich meine damit das Hotel und die ganzen Reservierungen, die ich sch\u00f6n get\u00e4tigt habe",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "neither"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "neither"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "negative",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8h7o5g",
+      "score": "48",
+      "created": "2023-11-09 09:32",
+      "author": "heyMardi",
+      "body": "Ja, bitte. Und bitte sch\u00f6n mit ordentlich Streiks an und um Weihnachten.\n\nEs war schon l\u00e4cherlich genug wie die EVG vor der Tr\u00e4nendr\u00fcsennummer der Bahn mit den Ferien eingeknickt ist. Soll die Bahn halt ordentliche Angebote machen, dann muss auch nicht gestreikt werden.",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "positive",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8ha2u6",
+      "score": "12",
+      "created": "2023-11-09 10:05",
+      "author": "aheadCook",
+      "body": "Wir hatten mal leichte Wochen?\n\nScherz beiseite, der Lohn den die erhalten ist lachhaft. Ich hoffe, das sich das bald nach oben verbessert. Viel Kraft den Streikenden und Betroffenen!",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "positive",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8hcp7a",
+      "score": "31",
+      "created": "2023-11-09 10:41",
+      "author": "hrefPerth",
+      "body": "Joa die Bahn und Personal ist so eine Sache. Sie schaffen es auch in der IT reihenweise die Leute zu vergraulen, da man nicht ann\u00e4hernd den Zeitgeist kennst oder ihn ignoriert. Es fehlen 19000 Lokf\u00fchrer und auch an jeder anderen Ecke fehlt Personal. Das ist aber scheinbar v\u00f6llig egal. Ich bin seit der Blamage der EVG Verhandlung sowieso super genervt von der Personalpolitik.",
+      "branches": [
+        {
+          "id": "k8i020x",
+          "score": "12",
+          "created": "2023-11-09 14:41",
+          "author": "fedLuke",
+          "body": "Hast du bei den Geh\u00e4ltern auch mal an den Vorstand gedacht? *\"Bahnchef Richard Lutz hat im vergangenen Jahr mehr als doppelt so viel Geld von seinem Unternehmen erhalten wie ein Jahr zuvor\"*\n\n&#x200B;\n\nDas h\u00e4tte der Herr Lutz sicher gerne nochmal, also m\u00fcssen die normalen Angestellten mal ne Nummer zur\u00fcckschrauben!",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "positive",
+          "stanceOnParent": "negative"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8hhe1a",
+      "score": "-10",
+      "created": "2023-11-09 11:43",
+      "author": "kateMls",
+      "body": "Es ist sicherlich eine unbeliebte Meinung, aber man sollte sich halt auch Fragen, wo das Geld herkommen soll. Die Gehaltsanpassungen werden sicherlich zu steigenden Preisen f\u00fchren und dann ist die Frage, wie viele Kunden tats\u00e4chlich die M\u00f6glichkeit haben von der Bahn wegzuwechseln.\n\nIch war jahrelang Bahnfahrer ohne Auto. Irgendwann hat es dann gereicht (eher die Zuverl\u00e4ssigleit  aber Preise spielen auch eine Rolle). Seit ich nun ein Auto habe, fahre ich fast gar keine Bahn mehr. Das war anders geplant, aber die Bahn bietet inzwischen ein Paket, das in direkter Konkurrenz zu anderen Fortbewegungsm\u00f6glichkeiten schlecht abschneidet. \n\nMir stellt sich die Frage, inwiefern man das verbessern kann. Das wird sehr viel Geld kosten und man braucht die Mitarbeiter daf\u00fcr. Gleichzeitig w\u00e4re die Automatisierung eventuell eine M\u00f6glichkeit Geld f\u00fcr andere Themen freizubekommen.",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "negative",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8hhe6b",
+      "score": "14",
+      "created": "2023-11-09 11:43",
+      "author": "pennIts",
+      "body": "11% auf 30monate verteilt und nat\u00fcrlich 2850\u20ac Inflationspr\u00e4mie.\n\nZum Gl\u00fcck sind die meisten Bahner auf ihren Bereich eingeschr\u00e4nkt und/oder alt und wollen nicht wechseln. Ansonsten k\u00f6nnte ich mir das nicht vorstellen, wieso dort die Leute nicht massenweise abhauen",
+      "branches": [
+        {
+          "id": "k8hogif",
+          "score": "4",
+          "created": "2023-11-09 13:03",
+          "author": "showPool",
+          "body": "Viele hauen doch ab, warum sonst fallen mittlerweile so viele Z\u00fcge und Stellwerke aus",
+          "branches": [
+            {
+              "id": "k8iy6ix",
+              "score": "1",
+              "created": "2023-11-09 18:21",
+              "author": "pennIts",
+              "body": "Die Bahn hat halt das problem, dass so gut wie alle beinah Rentner sind oder fr\u00fchzeitig in Rente gehen. Dann dazu noch die perfekte Personalstrategie\n\nViele denken an \"Familie\" und wenn  man da als neue/r rein kommt sind viele einfach nur noch verbittert/unfreundlich\n\nHaupts\u00e4chlich hauen alle aus der Technik ab (Elektronik/Mechatronik), alle anderen haben es schwieriger",
+              "branches": [],
+              "isTopLevel": false,
+              "stanceOnSubmission": "neither",
+              "stanceOnParent": "positive"
+            }
+          ],
+          "isTopLevel": false,
+          "stanceOnSubmission": "neither",
+          "stanceOnParent": "negative"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "positive",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8hpsqq",
+      "score": "17",
+      "created": "2023-11-09 13:15",
+      "author": "heldSteve",
+      "body": "Ich kanns langsam nicht mehr h\u00f6ren wie jeder auf die GDL eindrischt, die nur ihre Rechte wahrnehmen...",
+      "branches": [
+        {
+          "id": "k8iyfgm",
+          "score": "7",
+          "created": "2023-11-09 18:22",
+          "author": "pennIts",
+          "body": "Sind halt Idioten die nicht rechnen k\u00f6nnen oder denken 4% im Jahr sind viel bei der Inflationrate oder denken wenn die Inflation zur\u00fcck geht, dass die Preise fallen, aber sie steigen einfach weniger stark",
+          "branches": [],
+          "isTopLevel": false,
+          "stanceOnSubmission": "positive",
+          "stanceOnParent": "positive"
+        }
+      ],
+      "isTopLevel": true,
+      "stanceOnSubmission": "positive",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8hvi4s",
+      "score": "4",
+      "created": "2023-11-09 14:05",
+      "author": "holesViii",
+      "body": "Das Schlimme ist, dass sich die durch Lohnerh\u00f6hungen entstehenden Kosten sicherlich nicht bei den Geh\u00e4ltern der Chefetage bemerkbar machen w\u00fcrden.",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8hvvl3",
+      "score": "9",
+      "created": "2023-11-09 14:08",
+      "author": "diaryJan",
+      "body": "Streiken, streiken, nochmal streiken. Gerne vor Weihnachten und gerne in Verbindung mit Verdi im Einzelhandel. Das Managament greift \u00fcberall seit Jahren mit beiden H\u00e4nden alles was es kriegen kann und die Arbeitnehmer sollen ein schlechtes Gewissen haben, wenn sie mehr wollen als Einmalzahlungen. \nLegt den ganzen Laden lahm. Vielleicht kommt bei mehr Gehalt dann auch mal irgendwann ein Zug p\u00fcnktlich weil ein paar mehr Leute Bock auf Lockf\u00fchrer haben.",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "positive",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8jopa9",
+      "score": "1",
+      "created": "2023-11-09 20:58",
+      "author": "issueWell",
+      "body": "In Zukunft dann zweimal im Jahr?",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    },
+    {
+      "id": "k8me3if",
+      "score": "1",
+      "created": "2023-11-10 09:18",
+      "author": "busesDevel",
+      "body": "Haha, noch h\u00e4rter?\n\nMeine Bahn ist nach 2 Monaten Bauarbeiten genau 2 Tage gefahren um jetzt wieder bis mitte Dezember auszufallen. \n\nWen will die Bahn eigentlich bel\u00fcgen. Die Zust\u00e4nde sind jetzt schon am Ende.",
+      "branches": [],
+      "isTopLevel": true,
+      "stanceOnSubmission": "neither",
+      "stanceOnParent": null
+    }
+  ]
+}
