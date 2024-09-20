@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Wöstmann"
+  given-names: "Felix"
+  orcid: "https://orcid.org/0009-0006-7577-4993"
+title: "German Reddit stance dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.13819863
+date-released: 2024-09-20
+url: "https://github.com/felixwoestmann/stance_annotator_app"
